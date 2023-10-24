@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8ae8228-3eee-4e22-82ee-b6bdf2eda8dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/java/com/francesCreates/springbootlibrary/SpringBootLibraryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/src/test/java/com/francesCreates/springbootlibrary/SpringBootLibraryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Software Design and Dev notes/22-23 Term 1/CT 853 Algorithmics &amp; Logical Methods/Assignment/Algorithm assignment 1/Algorithm assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/java/com/itheima/SpringbootWebQuickstartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/java/com/itheima/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/java/com/itheima/controller/Jie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/java/com/itheima/controller/Lu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/java/com/itheima/SpringbootWebQuickstartApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2VciSWe8bCGVv8k4DaL3O6MNNYU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/full-stack/film-logging-app/02-backend/spring-boot-library"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ae8228-3eee-4e22-82ee-b6bdf2eda8dc" name="Changes" comment="" />
+      <created>1695141769073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695141769073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
